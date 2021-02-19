@@ -5,8 +5,7 @@ This is sample application of adding/remove task using mobx-react.
 1. npm install
 2. npm start
 
-## Screenshots
-
+## Snaps/Video
 
 https://user-images.githubusercontent.com/26835951/108539440-040eaa00-7306-11eb-8e8d-97fb08708585.mp4
 
